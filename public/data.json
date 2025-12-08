@@ -1,0 +1,72 @@
+[
+    {
+      "code": "INV-2025-001",
+      "date": "2025-01-05",
+      "name": "Peter Kiss",
+      "price": 1500,
+      "status": "paid"
+    },
+    {
+      "code": "INV-2025-002",
+      "date": "2025-01-08",
+      "name": "Katalin Nagy",
+      "price": 4200,
+      "status": "pending"
+    },
+    {
+      "code": "INV-2025-003",
+      "date": "2025-01-12",
+      "name": "Gergely Molnár",
+      "price": 8900,
+      "status": "draft"
+    },
+    {
+      "code": "INV-2025-004",
+      "date": "2025-01-15",
+      "name": "Anna Tóth",
+      "price": 2300,
+      "status": "paid"
+    },
+    {
+      "code": "INV-2025-005",
+      "date": "2025-01-17",
+      "name": "Zoltán Horváth",
+      "price": 1120,
+      "status": "pending"
+    },
+    {
+      "code": "INV-2025-006",
+      "date": "2025-01-20",
+      "name": "László Varga",
+      "price": 7600,
+      "status": "paid"
+    },
+    {
+      "code": "INV-2025-007",
+      "date": "2025-01-22",
+      "name": "Judit Szabó",
+      "price": 5400,
+      "status": "draft"
+    },
+    {
+      "code": "INV-2025-008",
+      "date": "2025-01-25",
+      "name": "Bence Farkas",
+      "price": 9900,
+      "status": "pending"
+    },
+    {
+      "code": "INV-2025-009",
+      "date": "2025-01-27",
+      "name": "Eszter Balogh",
+      "price": 3100,
+      "status": "paid"
+    },
+    {
+      "code": "INV-2025-010",
+      "date": "2025-01-30",
+      "name": "Tamás Kovács",
+      "price": 1280,
+      "status": "pending"
+    }
+  ]

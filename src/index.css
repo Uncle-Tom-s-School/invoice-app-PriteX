@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+  --bg-color: rgb(20,22, 37);
+  --invoice-bg: rgb(31, 33, 58);
+  --paid: rgb(37,228,166);
+  --pending:rgb(255,142,0);
+  --draft: rgb(212,214,237);
+  font-family: "Roboto";
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

@@ -1,7 +1,12 @@
-const App = () => {
+import React from "react";
+import Invoice from "./components/Invoice";
+
+function App() {
   return (
-    <div>App</div>
-  )
+    <div className="app">
+      <Invoice />
+    </div>
+  );
 }
 
-export default App
+export default App;
